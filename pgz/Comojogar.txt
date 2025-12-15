@@ -1,0 +1,38 @@
+Como o jogo funciona:
+Personagem principal (Player):
+É o herói que você controla
+Pula nas plataformas verdes
+Pode derrotar inimigos pulando em cima deles
+Tem 3 vidas - cada vez que toca em um inimigo, perde 1 vida
+
+Inimigos (Enemy):
+Andam de um lado para o outro
+São vermelhos
+São derrotados quando você pula em cima deles
+Dão 100 pontos cada
+
+Controles:
+Setas ← →: Movem o personagem
+Seta ↑: Faz o personagem pular
+Mouse: Usa os botões do menu
+
+Objetivo:
+Derrotar todos os inimigos
+Não perder todas as vidas
+Fazer a maior pontuação possível
+
+Dicas para jogar:
+Use o pulo com cuidado
+Fique atento aos inimigos que se movem
+Não caia da tela
+Pule nos inimigos para derrotá-los
+
+Para pais/professores:
+Este código ensina:
+Lógica de programação
+Física simples (gravidade, movimento)
+Colisões e detectores
+Organização de código em classes
+Conceitos de jogos (vidas, pontos, inimigos)
+Divirta-se jogando! 🎮😊
+
